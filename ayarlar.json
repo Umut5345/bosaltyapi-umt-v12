@@ -1,0 +1,5 @@
+{
+"token": "Bot Token (isterseniz .env'ye atın tokeninizi çalınmaz en azından)",    
+"sahip": "Botun Sahib ID", 
+"prefix": "PREFİX" 
+}
