@@ -1,4 +1,4 @@
-const Discord = require("discord.js");//BotClub ❤ umt`#1000
+const Discord = require("discord.js");//BotClub ❤ umt#0001
 const moment = require("moment");
 const ayarlar = require("../ayarlar.json");
 
@@ -12,7 +12,7 @@ exports.run = (client, message, params) => {
   .setAuthor(message.author.username, message.author.avatarURL)
   .addField("Uyarı","Bu Komutu Özel Mesajlarda Kullanamazsın!");
     
-  return message.author.send(ozelmesajuyari);//BotClub ❤ umt`#1000
+  return message.author.send(ozelmesajuyari);//BotClub ❤ umt#0001
   }
   
   if (message.channel.type !== "dm") {
@@ -30,7 +30,7 @@ exports.run = (client, message, params) => {
   .addField('Sunucu İdsi', message.guild.id)
   .addField('Sunucu Bölgesi', message.guild.region)
   .addField('Üye Sayısı', message.guild.memberCount)
-  .addField('Rol Sayısı', message.guild.roles.size)//BotClub ❤ umt`#1000
+  .addField('Rol Sayısı', message.guild.roles.size)//BotClub ❤ umt#0001
   .addField('Kanal Sayısı',message.guild.channels.size)
   .addField('Emoji Sayısı', message.guild.emojis.size)
   .addField('Oluşturma tarihi:', message.guild.createdAt, true)
@@ -51,6 +51,6 @@ exports.conf = {
 
 exports.help = {
   name: "sunucubilgi",
-  description: "BotClub ❤ umt`#1000",
+  description: "BotClub ❤ umt#0001",
   usage: "sunucubilgi"
-};//BotClub ❤ umt`#1000
+};//BotClub ❤ umt#0001
