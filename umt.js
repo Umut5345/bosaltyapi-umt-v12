@@ -58,6 +58,6 @@ files.filter(file => file.endsWith(".js")).forEach(file => {
 
 //////////////////////////////////////////////////KOMUTLAR///////////////////////////////////////////////////////////////////////
 
-// Botun tokenini .env'yr attıysanız alttakini silip bunu yazın client.login(process.env.TOKEN)
+// Botun tokenini .env'ye attıysanız alttakini silip bunu yazın client.login(process.env.TOKEN)
 
 client.login(ayarlar.token);
