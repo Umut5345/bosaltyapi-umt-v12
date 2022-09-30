@@ -2,7 +2,7 @@
 
 
 
-- 👋 Hi, I’m Umut
+- 👋 Hi, I’m xecitio
 - I'm a software student in Turkey.
 - Four years of Discord developer
 - I'm the founder of Akira Gifs
