@@ -2,7 +2,7 @@
 
 
 
-- 👋 Hi, I’m xecitio
+- 👋 Hi, I’m xec
 - I'm a software student in Turkey.
 - Four years of Discord developer
 - I'm the founder of Akira Gifs
